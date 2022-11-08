@@ -1,6 +1,7 @@
 from http.server import BaseHTTPRequestHandler
 import requests # like axios
 from urllib import parse
+from webbrowser import get
 
 
 class handler(BaseHTTPRequestHandler): ## versal name function, don't change it
