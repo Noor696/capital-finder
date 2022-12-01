@@ -14,4 +14,5 @@ https://vercel.com/noor696/capital-finder
 
 **example urls**
 
-https://capital-finder-qv6evpakm-noor696.vercel.app/api/capital-finder?country=jordan
+https://capital-finder-qv6evpakm-noor696.vercel.app/api/capital-finder?country=Chile
+
